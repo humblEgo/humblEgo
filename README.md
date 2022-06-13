@@ -1,7 +1,5 @@
 ### Hi there, I'm Injoon Woo! 👋
 
-🌱 I am a junior backend developer.
-
 🎮 I am currently interested in `BDD`, `Design Patterns`, `Agile`.
 
 🚀 I want to be a developer who can create and scale up own service.
